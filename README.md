@@ -13,7 +13,7 @@ yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga
 **Flowchart program**
 ![flowchart1](https://github.com/rumiumi/Praktikum6/blob/master/flowchart1.jpg)
 **Hasil program**
-![hasil1](https://github.com/rumiumi/Praktikum6/blob/master/hasil1.PNG)
+![hasil1](https://github.com/rumiumi/Praktikum6/blob/master/hasil1.png)
 
 **Kode Program**
 ##Header 
@@ -96,7 +96,7 @@ int inputData(string v)
 **Flowchart program**
 ![flowchart2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart2.1.jpg)
 **Hasil program**
-![hasil2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.1.PNG)
+![hasil2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.1.png)
 
 **kode Program**
 ```
@@ -137,7 +137,7 @@ return 0;
 **Flowchart program**
 ![flowchart2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart2.2.jpg)
 **Hasil program**
-![hasil2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.2.PNG)
+![hasil2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.2.png)
 
 **Code Program**
 ```
