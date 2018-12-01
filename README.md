@@ -162,4 +162,4 @@ main(){
     cout<< "Nilai " << a << " X " << b <<"=" << kali(a,b);
     return 0;
 }
-```
+```# Praktikum6
