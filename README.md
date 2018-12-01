@@ -11,9 +11,9 @@ yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga
 5. end
 
 **Flowchart program**
-![flowchart1](https://github.com/rumiumi/Praktikum6/blob/master/flowchart1.png)
+![flowchart1](https://github.com/rumiumi/Praktikum6/blob/master/flowchart1.jpg)
 **Hasil program**
-![hasil1](https://github.com/rumiumi/Praktikum6/blob/master/hasil1.png)
+![hasil1](https://github.com/rumiumi/Praktikum6/blob/master/hasil1.PNG)
 
 **Kode Program**
 ##Header 
@@ -94,9 +94,9 @@ int inputData(string v)
 5. end
 
 **Flowchart program**
-![flowchart2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart 2.1.png)
+![flowchart2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart2.1.jpg)
 **Hasil program**
-![hasil2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil 2.1.png)
+![hasil2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.1.PNG)
 
 **kode Program**
 ```
@@ -135,9 +135,9 @@ return 0;
 6. end
 
 **Flowchart program**
-![flowchart2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart%202.2.png)
+![flowchart2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart2.2.jpg)
 **Hasil program**
-![hasil2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil%202.2.png)
+![hasil2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil2.2.PNG)
 
 **Code Program**
 ```
