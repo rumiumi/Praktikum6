@@ -11,9 +11,9 @@ yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga
 5. end
 
 **Flowchart program**
-https://github.com/raizafahra/praktikum6/blob/master/flowchart1.png
+![flowchart1](https://github.com/rumiumi/Praktikum6/blob/master/flowchart1.png)
 **Hasil program**
-https://github.com/raizafahra/praktikum6/blob/master/hasil1.png
+![hasil1](https://github.com/rumiumi/Praktikum6/blob/master/hasil1.png)
 
 **Kode Program**
 ##Header 
@@ -94,9 +94,9 @@ int inputData(string v)
 5. end
 
 **Flowchart program**
-https://github.com/raizafahra/praktikum6/blob/master/latihan2/flowchart 2.1.png
+![flowchart2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart 2.1.png)
 **Hasil program**
-https://github.com/raizafahra/praktikum6/blob/master/latihan2/hasil 2.1.png
+![hasil2.1](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil 2.1.png)
 
 **kode Program**
 ```
@@ -135,9 +135,9 @@ return 0;
 6. end
 
 **Flowchart program**
-https://github.com/raizafahra/praktikum6/blob/master/latihan2/flowchart%202.2.png
+![flowchart2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/flowchart%202.2.png)
 **Hasil program**
-https://github.com/raizafahra/praktikum6/blob/master/latihan2/hasil%202.2.png
+![hasil2.2](https://github.com/rumiumi/Praktikum6/blob/master/latihan2/hasil%202.2.png)
 
 **Code Program**
 ```
